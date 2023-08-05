@@ -1,0 +1,2 @@
+Hello, World! 
+Hier lerne ich den Umgang Git.
